@@ -7,5 +7,20 @@ refer: https://stackoverflow.com/questions/34219046/using-npm-install-to-install
 - npm install jquery
 
 ## Install & construct TypeSript ENV.
-- npm install -g typescript
-- tsc --init
+```
+ npm install -g typescript
+ tsc --init
+```
+
+## Install jQuery for TypeScript
+- if use jquery-ui, just install @types/jqueryui
+```
+npm install --save @types/jqueryui
+```
+- if we don't use jQuery-ui, just install jQuery
+```
+npm install @types/jquery --save-dev
+```
+
+## Install BootStrap for TypeScript
+- npm install -D @types/bootstrap
