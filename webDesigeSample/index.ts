@@ -13,8 +13,8 @@ function eventSettig(){
     });
 
     $('#saveBtn').click(function(){
-        let name: any = $('#Name').val();
-        let ipAddr: any = $('#IP').val();
+        let name: string = $('#Name').val() as string;
+        let ipAddr: string = <string>$('#IP').val();
         let msg: string = '';
 
         if(name == "" || ipAddr == ""){

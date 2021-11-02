@@ -138,3 +138,7 @@ body {
 .newFoot{
   color: chocolate;
 }
+
+.dragable_touch{
+  cursor: move;
+}

@@ -1,10 +1,15 @@
 # A simple web App design 
 ## Install & construct NPM ENV with jQuery
-- npm init //產生package.json
-- npm inatall
-- npm install jquery-ui-dist <br>
+```
+npm init //generate package.json
+
+npm inatall
+
+npm install jquery-ui-dist
+
+npm install jquery
+```
 refer: https://stackoverflow.com/questions/34219046/using-npm-install-to-install-jquery-ui
-- npm install jquery
 
 ## Install & construct TypeSript ENV.
 ```
