@@ -23,4 +23,6 @@ npm install @types/jquery --save-dev
 ```
 
 ## Install BootStrap for TypeScript
-- npm install -D @types/bootstrap
+```
+npm install -D @types/bootstrap
+```
