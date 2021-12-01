@@ -19,7 +19,7 @@ gulp.task('browserify', function () {
   return browserify([
     './src/js/index.js',
     './src/js/preference.js',
-    './src/js/preset.js',
+    //'./src/js/preset.js',
     './src/js/lib/Camera.js',
   ]).bundle()
     .pipe(source('index_bundle.js'))

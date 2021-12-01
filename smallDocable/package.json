@@ -12,6 +12,7 @@
     "keywords": [],
     "license": "ISC",
     "devDependencies": {
+        "@types/jquery": "^3.5.9",
         "@types/node": "^15.14.9",
         "browserify": "^17.0.0",
         "gulp": "^4.0.2",
