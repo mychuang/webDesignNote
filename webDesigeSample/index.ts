@@ -42,7 +42,7 @@ function eventSettig(){
         $('#resetBtn').click(function() {
             let msg = ' <div class="col-md-6">Device name</div><div class="col-md-6">IP Address</div>';
             $('#msg').html(msg);
-          });
+        });
     });
 }
 

@@ -1,0 +1,28 @@
+{
+  "name": "webdesignnote",
+  "version": "1.0.0",
+  "description": "```\r npm init //generate package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mychuang/webDesignNote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mychuang/webDesignNote/issues"
+  },
+  "homepage": "https://github.com/mychuang/webDesignNote#readme",
+  "dependencies": {
+    "@types/jqueryui": "^1.12.16",
+    "jquery": "^3.6.0",
+    "jquery-ui-dist": "^1.13.1"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.1.11",
+    "@types/jquery": "^3.5.14"
+  }
+}
