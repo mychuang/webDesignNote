@@ -1,0 +1,59 @@
+#preset-img-1 {
+  content: url("../../images/corporate/preset1_normal.png");
+}
+#preset-img-1:hover {
+  content: url("../../images/corporate/preset1_hover.png");
+}
+#preset-img-1:active {
+  content: url("../../images/corporate/preset1_pressed.png");
+}
+
+#preset-img-2 {
+  content: url("../../images/corporate/preset2_normal.png");
+}
+#preset-img-2:hover {
+  content: url("../../images/corporate/preset2_hover.png");
+}
+#preset-img-2:active {
+  content: url("../../images/corporate/preset2_pressed.png");
+}
+
+#preset-img-3 {
+  content: url("../../images/corporate/preset3_normal.png");
+}
+#preset-img-3:hover {
+  content: url("../../images/corporate/preset3_hover.png");
+}
+#preset-img-3:active {
+  content: url("../../images/corporate/preset3_pressed.png");
+}
+
+#preset-img-4 {
+  content: url("../../images/corporate/preset4_normal.png");
+}
+#preset-img-4:hover {
+  content: url("../../images/corporate/preset4_hover.png");
+}
+#preset-img-4:active {
+  content: url("../../images/corporate/preset4_pressed.png");
+}
+
+#preset-img-5 {
+  content: url("../../images/corporate/preset5_normal.png");
+}
+#preset-img-5:hover {
+  content: url("../../images/corporate/preset5_hover.png");
+}
+#preset-img-5:active {
+  content: url("../../images/corporate/preset5_pressed.png");
+}
+
+#preset-img-6 {
+  content: url("../../images/corporate/preset6_normal.png");
+}
+#preset-img-6:hover {
+  content: url("../../images/corporate/preset6_hover.png");
+}
+#preset-img-6:active {
+  content: url("../../images/corporate/preset6_pressed.png");
+}
